@@ -54,8 +54,5 @@ const profile = {
   </a>
 </p>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/Swaggie190/Swaggie190/blob/output/github-snake.svg)
-
 <!-- Activity Graph -->
 [![Wisdom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swaggie190&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
