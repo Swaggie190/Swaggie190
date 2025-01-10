@@ -5,22 +5,28 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
+      - name: Debug Inputs
+        run: echo "Repository Owner: ${{ github.repository_owner }}"
 
       - uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: Swaggie190
+          outputs: dist/github-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Verify Generated Files
+        run: ls -la dist
+
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
