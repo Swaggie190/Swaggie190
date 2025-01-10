@@ -84,13 +84,13 @@ Software Developer & Security Analyst
   <a href="mailto:wisdom.sibafo@facsciences-uy1.cm">
     <img src="https://img.shields.io/badge/Academic-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/wisdom-sibafo">
+  <a href="https://www.linkedin.com/in/sibafo-wisdom-6a35b6293">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/+1234567890">
+  <a href="https://wa.link/5svf45">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://x.com/WisdomSibafo">
+  <a href="https://x.com/swaggie_2022">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
