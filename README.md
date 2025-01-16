@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Wisdom Sibafo**  
+Hello, I'm **SIBAFO Wisdom**  
 Software Developer & Security Analyst   
 
 ### Tech Skills:
