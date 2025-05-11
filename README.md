@@ -17,13 +17,17 @@ Software Developer & Security Analyst
 - **Databases:** PostgreSQL, SQL
 - **IDEs & Tools:** VSCode, Android Studio, GitHub, DBeaver
 
-### Security Expertise:
+### Network & Security Expertise:
 - Penetration Testing  
 - Log Analysis
+- Network Planning and Configuration
+- Huawei Network Infrastructure
+- Currently a Finalist in the Huawei ICT Competition 2025, specializing in Network Track
 
 ### Currently Learning:
 - Advanced Security  
 - Cloud Architecture
+- Enterprise Network Solutions
 
 ---
 
@@ -52,12 +56,23 @@ Software Developer & Security Analyst
 
 ---
 
-## 🔒 Security Skills
+## 🔒 Security & Network Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/security-pentesting-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/analysis-logs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/network-planning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/huawei-certified-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ict-competition_finalist-yellow?style=for-the-badge" />
 </p>
+
+### Huawei ICT Competition 2025
+Currently at the final stage of the prestigious Huawei ICT Competition in the Network Track, demonstrating advanced skills in:
+- Enterprise Network Design & Implementation
+- Routing & Switching Configurations
+- Network Security Implementation
+- Troubleshooting Complex Network Issues
+- Huawei Equipment Configuration & Management
 
 ---
 
