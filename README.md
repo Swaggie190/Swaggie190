@@ -22,7 +22,7 @@ Software Developer & Security Analyst
 - Log Analysis
 - Network Planning and Configuration
 - Huawei Network Infrastructure
-- Currently a Finalist in the Huawei ICT Competition 2025, specializing in Network Track
+- Finalist in the Global final of the Huawei ICT Competition 2025 held in China and winner of the second prize in the Network Track
 
 ### Currently Learning:
 - Advanced Security  
