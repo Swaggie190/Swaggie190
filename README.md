@@ -9,17 +9,18 @@
 ## 👨‍💻 About Me
 
 Hello, I'm **SIBAFO Wisdom**  
-Software Developer & Security Analyst   
+Software Developer & Network administrator  
 
 ### Tech Skills:
 - **Programming Languages:** Flutter, React, Java, JavaScript, Python, C, C++
 - **Frameworks & Tools:** Django, Flask, Spring Boot, Docker, Kivy
-- **Databases:** PostgreSQL, SQL
+- **Databases:** PostgreSQL, SQL, MongoDB
 - **IDEs & Tools:** VSCode, Android Studio, GitHub, DBeaver
 
-### Network & Security Expertise:
-- Penetration Testing  
-- Log Analysis
+### Skills:
+- Fullstack development with high standard security and technologies
+- Penetration Testing (beginner)
+- Log Analysis (basic)
 - Network Planning and Configuration
 - Huawei Network Infrastructure
 - Finalist in the Global final of the Huawei ICT Competition 2025 held in China and winner of the second prize in the Network Track
@@ -65,14 +66,6 @@ Software Developer & Security Analyst
   <img src="https://img.shields.io/badge/huawei-certified-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ict-competition_finalist-yellow?style=for-the-badge" />
 </p>
-
-### Huawei ICT Competition 2025
-Currently at the final stage of the prestigious Huawei ICT Competition in the Network Track, demonstrating advanced skills in:
-- Enterprise Network Design & Implementation
-- Routing & Switching Configurations
-- Network Security Implementation
-- Troubleshooting Complex Network Issues
-- Huawei Equipment Configuration & Management
 
 ---
 
